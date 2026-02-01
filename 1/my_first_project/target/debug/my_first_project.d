@@ -1,0 +1,1 @@
+/media/mohomoko/9030765A3076476E/Users/M0H0M0K0/Desktop/W/404/Learning/RUST/rustan/1/my_first_project/target/debug/my_first_project: /media/mohomoko/9030765A3076476E/Users/M0H0M0K0/Desktop/W/404/Learning/RUST/rustan/1/my_first_project/src/main.rs
